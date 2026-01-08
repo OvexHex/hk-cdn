@@ -1,0 +1,2 @@
+Hello! This is a test text file for the CDN server.
+It demonstrates that text files are being served correctly.
